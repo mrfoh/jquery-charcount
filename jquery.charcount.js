@@ -1,3 +1,8 @@
+/**
+	jQuery Character Counter and Limiter
+	Author : Patrick Foh Jnr
+	Email : patrickfoh@gmail.com
+**/
 (function($) {
 	$.fn.extend( {
 	    charcount: function(limit, counter) {
